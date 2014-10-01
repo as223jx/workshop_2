@@ -1,0 +1,2 @@
+Array
+a:4:{s:9:"firstname";s:3:"ghj";s:8:"lastname";s:5:"fgthj";s:12:"socialnumber";s:5:"gvhbj";s:2:"ID";i:2;}
